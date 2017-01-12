@@ -1,0 +1,12 @@
+{
+    "name": "studiopresent/json2",
+    "description": "json2",
+    "type": "package",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Studio Present",
+            "email": "info@studiopresent.com"
+        }
+    ]
+}
